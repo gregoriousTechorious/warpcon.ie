@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'AcademyEngraved';
+  src: url('assets/AcademyEngravedLetPlain.ttf');
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('assets/lato.woff2');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-width: 100%;
+  min-height: 100vh;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+}
+
+.jumbo-header {
+  font-family: 'AcademyEngraved', serif;
+  width: 100%;
+  background-color: #D93634;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.jumbo {
+  max-width: 1400px;
+  width: 100%;
+  height: auto;
+}
+
+.jumbo-header nav {
+  width: 1400px;
+  max-height: 8vh;
+}
+
+.jumbo-header nav>ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.jumbo-header a {
+  color: white;
+  text-decoration: underline;
+  /* text-decoration: none;
+  margin-bottom: 0;
+  border-bottom: 2px solid white; */
+
+  text-underline-offset: 8px;
+  /*text-underline-position: auto; */
+  font-size: 3rem;
+}
+
+.map {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  /* max-width: 1000px; */
+  background-color: #0065a94c;
+  align-items: center;
+  margin: auto;
+  padding: 0.8em;
+}
+
+.map>iframe {
+  aspect-ratio: 4/3;
+  width: 70%;
+  height: auto;
+}
+
+#info-section {
+  max-width: 1400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fefefe;
+  line-height: 1.52;
+  font-size: 24px;
+}
+
+#info-section>h4 {
+  margin-top: 2em;
+}
+
+#info-section p {
+  margin-bottom: 1em;
+}
+
+#info-section section {
+  margin: 40px auto;
+}
+
+#info-section section>h1 {
+  font-size: 2.4em;
+  margin-bottom: 0.4em;
+}
+
+#info-section>section>h1>a{
+  color: black;
+  text-decoration: none;
+}
+
+#schedule table {
+  min-width: 80%;
+  margin: 2em auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+#schedule td,  #schedule th {
+  border: 1px solid black;
+  padding: 12px;
+}
+
+#schedule table tr:nth-child(even) {
+  background-color: #0001;
+}
+
+footer {
+  max-width: 400px;
+  margin: auto;
+  padding: 1em 0;
+}
+
+@media screen and (max-width: 1400px) {
+  body>.jumbo-header>nav {
+    display: none ;
+  }
+
+  #info-section section h1 {
+    font-size: 2em;
+  }
+
+  .map>iframe {
+    width: 95%;
+  }
+}
