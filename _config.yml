@@ -25,20 +25,19 @@ organizerName: "Warpcon"
 organizerAlternateName: "Warpcon, an initiave by UCC Warps"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "warpcondirector@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/logos.png"
 organizerLink: "https://facebook.com/WARPCON"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "convention, ttrpgs, ccgs, wargames, ucc, cork, dnd, cyberpunk, magic: the gathering"
 twitterAccount: "@warpcon"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
@@ -63,16 +62,16 @@ eventDate: "January 27th-29th, 2023"
 typeoutTextValues: '"", "TTRPGs", "CCGs", "Wargames", "UCC", "Cork"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit a one-shot"}
- - {link: "", text: "Staff application"}
- - {link: "", text: "Trader application"}
- - {link: "", text: "Vendor application"}
+ - {link: "https://forms.gle/7eJPtQwGJpopgaQa6", text: "Submit a one-shot"}
+ - {link: "#", text: "Staff application", disabled: true}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Trader application"}
+ - {link: "#", text: "Vendor application", disabled: true}
  - {permalink: "/#tickets", text: "Tickets"}
 
 # About Block
 aboutTitle: "About Warpcon"
 aboutBlock:
- - {title: "TTRPGs",          image: "ttrpgs.jpg",      text: "D&D5e, Cyberpunk and other TTRPGs on Saturday and Sunday."}
+ - {title: "TTRPGs",          image: "ttrpgs.jpg",      text: "D&D5e, Cyberpunk and many other TTRPGs on Saturday and Sunday."}
  - {title: "CCGs",            image: "ccgs.jpg",        text: "Yu-Gi-Oh, Magic the Gathering, Pokemon and Digimon tournaments will be hosted by Sandbox,"}
  - {title: "LARPS",           image: "larps.jpg",       text: "On Friday evening and Saturday morning, we will be hosting organized LARP events."}
  - {title: "Wargames",        image: "wargames.jpg",    text: "On Saturday and Sunday, we will be hosting a wargames tournament."}
