@@ -49,23 +49,23 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a trader"}
- - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Become a trader"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a trader"}
- - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Become a trader"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Warpcon 33 | <typeout> "
-eventDate: "January 27th-29th, 2023"
+# heroTitle: "Warpcon 33 <typeout> Jan, 23"
+# eventDate: "January 27th-29th, 2023"
 typeoutTextValues: '"", "TTRPGs", "CCGs", "Wargames", "UCC", "Cork"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://forms.gle/7eJPtQwGJpopgaQa6", text: "Submit a one-shot"}
- - {link: "#", text: "Staff application", disabled: true}
+#  - {link: "#", text: "Staff application", disabled: true}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Trader application"}
- - {link: "#", text: "Vendor application", disabled: true}
+#  - {link: "#", text: "Vendor application", disabled: true}
  - {permalink: "/#tickets", text: "Tickets"}
 
 # About Block
