@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Warpcon 33"
 email: "warpcondirector@gmail.com"
 description: "Warpcon 33 is the 33rd annual gaming convention in UCC"
-baseurl: ""
+baseurl: "/warpcon.ie"
 # url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
