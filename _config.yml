@@ -13,7 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Warpcon 33"
 email: "warpcondirector@gmail.com"
 description: "Warpcon 33 is the 33rd annual gaming convention in UCC"
-baseurl: "/warpcon.ie"
+baseurl: ""
+url: "https://www.warpcon.ie"
 # url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
@@ -191,7 +192,10 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:warpcondirector@gmail.com", text: "warpcondirector@gmail.com"}
+   - {link: "mailto:warpcondirector@gmail.com",   text: "warpcondirector@gmail.com"}
+   - {link: "mailto:warpcontrader@gmail.com",     text: "warpcontrader@gmail.com"}
+   - {link: "mailto:warpconsecretary@gmail.com",  text: "warpconsecretary@gmail.com"}
+   - {link: "mailto:warpconstaff@gmail.com",      text: "warpconstaff@gmail.com"}
  -
   title: "FAQ"
   links:
