@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Warpcon 33"
 email: "warpcondirector@gmail.com"
@@ -23,7 +22,7 @@ permalink: "/blog/:title"
 
 # Organizer Info
 organizerName: "Warpcon"
-organizerAlternateName: "Warpcon, an initiave by UCC Warps"
+organizerAlternateName: "Warpcon, an initiative by UCC Warps"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "warpcondirector@gmail.com"
 organizerLogo: "/img/seo/logos.png"
@@ -64,10 +63,11 @@ typeoutTextValues: '"", "TTRPGs", "CCGs", "Wargames", "UCC", "Cork"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://forms.gle/7eJPtQwGJpopgaQa6", text: "Submit a one-shot"}
+ - {permalink: "/#tickets", text: "Tickets"}
+ - {link: "/#staff", text: "Staff Application"}
 #  - {link: "#", text: "Staff application", disabled: true}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Trader application"}
 #  - {link: "#", text: "Vendor application", disabled: true}
- - {permalink: "/#tickets", text: "Tickets"}
 
 # About Block
 aboutTitle: "About Warpcon"
@@ -138,7 +138,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets can also be purchased at the reception desk on the day. For group bookings for societies, please contact us at <a href='mailto:warpcondirector@gmail.com'>warpcondirector@gmail.com</a>."
+ticketsInfo: "Tickets can also be purchased at the reception desk on the day. For college society group bookings, please contact us at <a href='mailto:warpcondirector@gmail.com'>warpcondirector@gmail.com</a>."
 ticketsOffers:
  -
   name: "CCGs Pass"
