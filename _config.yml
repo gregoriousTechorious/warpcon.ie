@@ -77,7 +77,7 @@ aboutBlock:
  - {title: "LARPs",           image: "larps.jpg",       text: "On Friday evening and Saturday morning, we will be hosting organized LARPs events."}
  - {title: "Wargames",        image: "wargames.jpg",    text: "On Saturday and Sunday, Other Realms will be hosting Warhammer and Bloodbowl games."}
  - {title: "Boardgames",      image: "boardgames.jpg",  text: "Many boardgames will be available for attendees to play at any time during the convention."}
- - {title: "Charity",         image: "charity.jpg",     text: "On Sunday night, we will be holding a charity auction in the New Bar, with proceeds going to Cork Children's hospital"}
+ - {title: "Charity",         image: "charity.jpg",     text: "On Saturday night, we will be holding a charity auction in the New Bar, with proceeds going to Cork Children's hospital"}
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
