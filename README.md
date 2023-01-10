@@ -1,3 +1,5 @@
+# This crap uses ruby 2.7.2 and jekyll 3.9.2 - use rbenv and ruby-builder
+
 # Project Zeppelin / GDG DevFest 2014 site template
 
 ### About
