@@ -41,3 +41,12 @@
 @import "partials/judges";
 @import "partials/prizes";
 @import "partials/hackathon-location";
+
+.notfound {
+    font-size: 2em;
+    text-align: center;
+    margin: 2em auto;
+    max-width: 650px;
+    padding: 5em 2em;
+    text-align: center;
+}
