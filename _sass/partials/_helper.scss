@@ -2,6 +2,11 @@
     position: relative;
     z-index: 1;
     height: 100%;
+
+    p {
+        max-width: 50em;
+        margin: auto;
+    }
 }
 .bordered {
     display: inline-block;
