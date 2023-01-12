@@ -15,7 +15,7 @@ description: "Warpcon 33 is the 33rd annual gaming convention in UCC"
 baseurl: ""
 url: "https://www.warpcon.ie"
 # url: "https://gdg-x.github.io"
-permalink: "/blog/:title"
+permalink: "/games/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -42,7 +42,7 @@ socialImageSrcFacebook: "/img/seo/logos.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/games/", text: "Games"}
  - {permalink: "/schedule", text: "Schedule"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
@@ -75,7 +75,7 @@ aboutBlock:
  - {title: "TTRPGs",          image: "ttrpgs.jpg",      text: "D&D5e, Cyberpunk and many other TTRPGs on Friday, Saturday and Sunday."}
  - {title: "CCGs",            image: "ccgs.jpg",        text: "Yu-Gi-Oh, Magic the Gathering, Pokemon and Digimon events & tournaments will be hosted by Sandbox."}
  - {title: "LARPs",           image: "larps.jpg",       text: "On Friday evening and Saturday morning, we will be hosting organized LARPs events."}
- - {title: "Wargames",        image: "wargames.jpg",    text: "On Saturday and Sunday, we will be hosting Warhammer 40k and Bloodbowl."}
+ - {title: "Wargames",        image: "wargames.jpg",    text: "On Saturday and Sunday, we will be hosting <a href='/assets/40k-2023.pdf'>Warhammer 40k</a> and <a href='/assets/bleedbowl-2023.pdf'>Bloodbowl</a>."}
  - {title: "Boardgames",      image: "boardgames.jpg",  text: "Many boardgames will be available for attendees to play at any time during the convention."}
  - {title: "Charity",         image: "charity.jpg",     text: "On Saturday night, we will be holding a charity auction in the New Bar, with proceeds going to Cork Children's hospital"}
 # Statistic Block

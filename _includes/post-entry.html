@@ -1,0 +1,36 @@
+<article class="row post">
+    <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}">
+        <h4>{{ post.title }}</h4>
+    </a>
+    {% if post.category == "rpg" %}
+    <div class="post-header">
+        {% if post.category == "rpg" %}
+        <div class="published col-md-6 col-xs-6 pull-left">
+            {{ post.system }}
+
+            <br />
+            <span class="caption">
+                by {{ post.author }}
+            </span>
+            <!-- <span class="caption">Posted:</span>
+                                        <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span> -->
+        </div>
+        {% endif %}
+        {% if post.category == "rpg" %}
+        <div class="pull-right">
+            <ul class="social-links">
+                <li>
+                    <b>{{ post.players }}</b> Players
+                </li>
+                <li>
+                    {{ post.exp_level}} experience
+                </li>
+            </ul>
+            <br />
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+    <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a
+            href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+</article>

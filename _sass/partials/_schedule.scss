@@ -6,12 +6,13 @@
     margin: 2em auto;
     text-align: center;
     font-size: 2em;
-    max-width: 650px;
+    max-width: 700px;
     line-height: 1.5;
 }
 
 .schedule {
     margin: 2em auto;
+    width: 98%;
     max-width: 800px;
     padding: 0.2em 1em;
     border: 1px solid #ccc;
@@ -29,7 +30,7 @@
 
 .schedule table {
     margin: 1em auto 4em auto;
-    width: 80%;
+    width: 98%;
     max-width: 600px;
     border: 1px solid #ccc;
 }
@@ -40,6 +41,7 @@
 
 .schedule table tr td {
     padding: 1em;
+    font-size: 1.25em;
 }
 
 .schedule table tr td:first-child {
@@ -55,4 +57,13 @@
     margin: 0;
     padding: 0;
     text-align: left;
+}
+
+@media screen and (max-width: 767px) {
+    .schedule table {
+        width: 100%;
+    }
+    .schedule td {
+        padding: 0;
+    }
 }
