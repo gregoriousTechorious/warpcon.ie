@@ -13,7 +13,7 @@
 .schedule {
     margin: 2em auto;
     width: 98%;
-    max-width: 800px;
+    max-width: 900px;
     padding: 0.2em 1em;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -31,7 +31,7 @@
 .schedule table {
     margin: 1em auto 4em auto;
     width: 98%;
-    max-width: 600px;
+    max-width: 800px;
     border: 1px solid #ccc;
 }
 
@@ -40,12 +40,12 @@
 }
 
 .schedule table tr td {
-    padding: 1em;
+    padding: 1em 0.4em;
     font-size: 1.25em;
 }
 
 .schedule table tr td:first-child {
-    width: 100px;
+    width: 15ch;
 }
 
 .schedule table tr td:last-child {

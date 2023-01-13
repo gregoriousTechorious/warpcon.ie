@@ -9,4 +9,8 @@ image: hero.jpg
 category: rpg
 ---
 
-Description coming soon
+With your incredible gifts, be a beacon of hope for humanity! Defend the city, keep the populace safe, appear on posters, sell merchandise, oh, and fight off Kaiju, all without swearing in front of the press or breaking character in public. 
+
+
+All in a day's work for five superheroes
+

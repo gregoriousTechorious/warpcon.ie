@@ -39,7 +39,7 @@
   }
 }
 .post-body {
-  margin-top: 8px;
+  margin: 2em 0 !important;
   h4 {
     margin-top: 40px;
   }
@@ -49,6 +49,7 @@
     margin: 16px 0;
   }
 }
+
 .page-navigation {
   margin-bottom: 40px;
   font-weight: $bold;
