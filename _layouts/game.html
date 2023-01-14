@@ -14,9 +14,42 @@
 
                 {% include top-section.html %}
                 <div class="post">
-                    <div class="st-content-header">
-                        <h4>by {{ page.author }}</h4>
-                        <h4>{{ page.players }} players with {{ page.exp_level }} experience</h4>
+                    <div class="st-content-header st-content-meta">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        By
+                                    </td>
+                                    <td>
+                                        {{ page.author }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        System
+                                    </td>
+                                    <td>
+                                        {{ page.system }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Players
+                                    </td>
+                                    <td>
+                                        {{ page.players }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Experience
+                                    </td>
+                                    <td>
+                                        {{ page.exp_level }}
+                                    </td>
+                            </tbody>
+                        </table>
                     </div>
                     <div class="st-content-body">
                         {{ content }}
