@@ -3,7 +3,7 @@ layout: game
 title: Righteous Fiends 
 system: "Crucible: Dark Ages"
 author: James Lloyd-Jones
-players: 5
+players: "5 <i style=\"color: red\">18+</i>"
 exp_level: Any
 image: hero.jpg
 category: rpg

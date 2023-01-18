@@ -3,7 +3,7 @@ layout: game
 title: Original Sins 
 system: Chronicles of Darkness
 author: James Lloyd-Jones
-players: 5
+players: "5 <i style=\"color: red\">18+</i>"
 exp_level: Intermediate
 image: hero.jpg
 category: rpg
