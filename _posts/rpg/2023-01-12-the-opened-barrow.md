@@ -7,6 +7,7 @@ players: 3-5
 exp_level: Any
 image: hero.jpg
 category: rpg
+tags: Fantasy, coming-of-age, undead, villagers, beginner-friendly
 ---
 
 An ancient king’s barrow stands just outside the village where you grew up. Someone has disturbed this ancient burial mound, and brought the world of the dead uncomfortably close to the living. With the adults of the village afraid to go near the barrow, it falls to you and your friends, young and untested, to drive away this long-buried danger.

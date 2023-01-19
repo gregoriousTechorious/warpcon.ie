@@ -1,7 +1,8 @@
 ---
-layout: larp
+layout: game
 title: Long Live the King
 system: Seven Rivers
+author: Seven Rivers
 players: 24 (14 returning, 8 new)
 category: larps
 image: hero.jpg

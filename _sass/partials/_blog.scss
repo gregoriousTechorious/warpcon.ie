@@ -74,7 +74,10 @@
 }
 
 .st-content-body {
-  margin: 60px 0;
+  // margin: 60px 0;1
+  padding: 0 1em;
+  max-width: 50em;
+  margin: 60px auto;
 }
 
 .st-content-body p {

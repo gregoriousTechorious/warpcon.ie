@@ -1,12 +1,13 @@
 ---
 layout: game
-title: A Figure Drawn in Dust
+title: "Trail of Cthulu: A Figure Drawn in Dust"
 system: Trail of Cthulu
 author: Gareth Ryder-Hanrahan
 players: 5
 exp_level: Intermediate
 image: hero.jpg
 category: rpg
+tags: Lovecraftian, folk horror, investigation, 15+
 ---
 
 “TERRIBLE TRAGEDY AT ARCHAEOLOGICAL DIG AT FORT WILLIAM. PROFESSOR MORSON DEAD. FOUL PLAY LIKELY. COME AT ONCE. A FRIEND.”

@@ -7,6 +7,7 @@ players: 5
 exp_level: Any
 image: hero.jpg
 category: rpg
+tags: Heist, Mature, Magic, Teamwork, Conspiracy, Urban Fantasy
 ---
 
 It's the 1920s, and in the aftermath of the great war the Technocracy (a brutal and oppressive organisation of super-scientists) has begun consolidating global power. Only the Mystic Traditions truly stand against them to keep magic in the world, a battle they've been losing since the Renaissance. 

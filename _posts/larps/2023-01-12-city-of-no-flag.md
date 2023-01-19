@@ -1,5 +1,5 @@
 ---
-layout: larp
+layout: game
 title: "City of No Flag Game: 18 Badlands Adventures"
 system: Oceania
 author: Paul Chambers, Lorcan Gaughan & David Hayes
