@@ -29,10 +29,12 @@
 }
 
 .schedule table {
+    display: block;
     margin: 1em auto 4em auto;
     width: 98%;
     max-width: 800px;
     border: 1px solid #ccc;
+    overflow: scroll;
 }
 
 .schedule table tr {
