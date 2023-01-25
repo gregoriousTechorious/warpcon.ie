@@ -2,7 +2,7 @@
 layout: game
 title: "Trail of Cthulu: A Figure Drawn in Dust"
 system: Trail of Cthulu
-author: Gareth Ryder-Hanrahan
+author: Gerry McEvoy 
 players: 5
 exp_level: Intermediate
 image: hero.jpg
