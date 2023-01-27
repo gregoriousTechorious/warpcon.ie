@@ -62,11 +62,11 @@ eventDate: "January 27th-29th, 2023"
 typeoutTextValues: '"", "TTRPGs", "CCGs", "Wargames", "UCC", "Cork"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://forms.gle/7eJPtQwGJpopgaQa6", text: "Submit a one-shot"}
+ - {link: "/assets/mainhandbook.pdf", text: "Handbook"}
  - {permalink: "/#tickets", text: "Tickets"}
- - {link: "/#staff", text: "Staff Application"}
+#  - {link: "/#staff", text: "Staff Application"}
 #  - {link: "#", text: "Staff application", disabled: true}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Trader application"}
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Trader application"}
 #  - {link: "#", text: "Vendor application", disabled: true}
 
 # About Block
