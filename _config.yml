@@ -9,9 +9,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Warpcon 33"
+title: "Warpcon 34"
 email: "warpcondirector@gmail.com"
-description: "Warpcon 33 is the 33rd annual gaming convention in UCC"
+description: "Warpcon 34 is the 34th annual gaming convention in UCC"
 baseurl: ""
 url: "https://www.warpcon.ie"
 # url: "https://gdg-x.github.io"
@@ -49,20 +49,20 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Become a trader"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSds7_XGjjyr1WuwuL3QSxhhg1R97B132o_IrN-EuleW2JrMsA/viewform?usp=sf_link", text: "Become a trader"}
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Become a trader"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSds7_XGjjyr1WuwuL3QSxhhg1R97B132o_IrN-EuleW2JrMsA/viewform?usp=sf_link", text: "Become a trader"}
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Warpcon 33"
-eventDate: "January 27th-29th, 2023"
+heroTitle: "Warpcon 34"
+eventDate: "January 26th-28th, 2024"
 typeoutTextValues: '"", "TTRPGs", "CCGs", "Wargames", "UCC", "Cork"'
 typeoutFallback: ""
 heroButtons:
- - {link: "/assets/mainhandbook.pdf", text: "Handbook"}
+# - {link: "/assets/mainhandbook.pdf", text: "Handbook"}
  - {permalink: "/#tickets", text: "Tickets"}
 #  - {link: "/#staff", text: "Staff Application"}
 #  - {link: "#", text: "Staff application", disabled: true}
@@ -146,7 +146,7 @@ ticketsOffers:
   ribbon: "Optional"
   priceCurrency: "EUR"
   ticketsNumber: ""
-  buyButtonLink: "https://warpcon.eventbrite.com/"
+ # buyButtonLink: "https://warpcon.eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to CCGs rooms", "Access to Pokemon, Digimon and MTG games"]
   # validFrom: "2014-08-25T10:00"
@@ -157,7 +157,7 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: ""
   featured: true
-  buyButtonLink: "https://warpcon.eventbrite.com/"
+ # buyButtonLink: "https://warpcon.eventbrite.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Admission to Warpcon convention", "Access to all boardgames and TTRPGs", "Access to trader hall"]
   # validFrom: "2014-10-01T00:00"
@@ -168,7 +168,7 @@ ticketsOffers:
   price: "10"
   ribbon: "Optional"
   priceCurrency: "EUR"
-  buyButtonLink: "https://warpcon.eventbrite.com/"
+ # buyButtonLink: "https://warpcon.eventbrite.com/"
   buyButtonText: "Buy Now"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Access to Wargames rooms", "Access to Warhammer and the Bloodbowl tournament"]
