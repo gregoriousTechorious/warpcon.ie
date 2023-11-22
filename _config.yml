@@ -142,7 +142,7 @@ ticketsInfo: "Tickets can also be purchased at the reception desk on the day. Fo
 ticketsOffers:
  -
   name: "CCGs Pass"
-  price: ""
+  price: "Coming soon"
   ribbon: "Optional"
   priceCurrency: "EUR"
   ticketsNumber: ""
@@ -153,7 +153,7 @@ ticketsOffers:
   # validThrough: "2014-09-30T23:59"
  -
   name: "General Admission"
-  price: ""
+  price: "Coming soon"
   priceCurrency: "EUR"
   ticketsNumber: ""
   featured: true
@@ -165,7 +165,7 @@ ticketsOffers:
   # disabled: true
  -
   name: "Wargames Pass"
-  price: ""
+  price: "Coming soon"
   ribbon: "Optional"
   priceCurrency: "EUR"
  # buyButtonLink: "https://warpcon.eventbrite.com/"
