@@ -148,7 +148,7 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173651839"
   buyButtonText: "Buy now!"
-  ticketContentList: ["Access to CCGs rooms and special events", "Access to Pokemon, Digimon and MTG games"]
+  ticketContentList: ["Access to CCGs rooms and special events", "Access to Pokemon, Lorcana, Yu-Gi-Oh and MTG games"]
   # validFrom: "2014-08-25T10:00"
   # validThrough: "2014-09-30T23:59"
  -
