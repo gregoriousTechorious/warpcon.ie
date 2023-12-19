@@ -171,7 +171,7 @@ ticketsOffers:
  # buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173651839"
   buyButtonText: "Buy now!"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Access to Wargames rooms", "Access to Warhammer and the Bloodbowl tournament"]
+  ticketContentList: ["Access to Wargames rooms", "Access to Warhammer. For Bloodbowl tickets please see rulepack above*"]
 
 # Footer
 socialLinks:
