@@ -75,7 +75,7 @@ aboutBlock:
  - {title: "TTRPGs",          image: "ttrpgs.jpg",      text: "D&D, Cyberpunk, Homebrew and many other TTRPGs on Friday, Saturday and Sunday."}
  - {title: "CCGs",            image: "ccgs.jpg",        text: "Magic the Gathering, Pokémon, Yu-Gi-Oh and Lorcana events and tournaments will be hosted by Sandbox"}
  - {title: "LARPs",           image: "larps.jpg",       text: "All weekend, we will be hosting organized LARPs events."}
- - {title: "Wargames",        image: "wargames.jpg",    text: "On Saturday and Sunday, we will be hosting <a href='/assets/40k-2024.pdf'>Warhammer 40k</a> and <a href='/assets/bleedbowl-2024.pdf'>Bloodbowl</a>. As well as LOTR and smaller tournaments"}
+ - {title: "Wargames",        image: "wargames.jpg",    text: "On Saturday and Sunday, we will be hosting <a href='/assets/40k-2024.pdf'>Warhammer 40k</a> and <a href='/assets/Bleedbowl-2024.pdf'>Bloodbowl</a>. As well as LOTR and smaller tournaments"}
  - {title: "Boardgames",      image: "boardgames.jpg",  text: "Many boardgames will be available for attendees to play at any time during the convention."}
  - {title: "Charity",         image: "charity.jpg",     text: "On Saturday night, we will be holding a charity auction in the New Bar, with proceeds going to Cork Children's hospital"}
 # Statistic Block
