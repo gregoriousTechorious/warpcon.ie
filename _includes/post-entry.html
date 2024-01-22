@@ -15,12 +15,11 @@
         </div>
         <div class="pull-right">
             <ul class="social-links">
+                {{% if post.exp_level %}}
                 <li>
-                    <b>{{ post.players }}</b> Players
+                    For {{ post.exp_level}}
                 </li>
-                <li>
-                    {{ post.exp_level}} experience
-                </li>
+                {{% endif %}}
             </ul>
             <br />
         </div>

@@ -5,7 +5,9 @@
             <h3>RPGs</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
                 {% for post in site.categories.rpg %}
-                {% include post-entry.html %}
+                {% unless post.path contains '_archive' %}
+                    {% include post-entry.html %}
+                {% endunless %}
                 {% endfor %}
                 {% if paginator.total_pages > 1 %}
                 <div class="row">
