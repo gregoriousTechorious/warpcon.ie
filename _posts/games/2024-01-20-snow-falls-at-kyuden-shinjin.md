@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "Snow Falls at Kyuden Shinjin"
-system: Legend of the Five Rings (FFG 4th Edition)
+system: Legend of the Five Rings 4th Edition
 author: Siskey
 exp_level: All ages
 image: hero.jpg
