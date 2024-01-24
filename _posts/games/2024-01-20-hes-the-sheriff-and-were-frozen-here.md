@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "He's the Sheriff and We're Frozen in Time"
+title: "He's the Sheriff and We're Frozen in Here"
 system: Pathhfinder 2E
 author: Seán Leaney
 exp_level: Teens & up
