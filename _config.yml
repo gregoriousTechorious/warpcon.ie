@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Warpcon 34"
+title: "Warpcon 200"
 email: "warpcondirector@gmail.com"
 description: "Warpcon 34 is the 34th annual gaming convention in UCC"
 baseurl: ""
