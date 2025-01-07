@@ -9,9 +9,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Warpcon 200"
+title: "Warpcon 35"
 email: "warpcondirector@gmail.com"
-description: "Warpcon 34 is the 34th annual gaming convention in UCC"
+description: "Warpcon 35 is the 35th annual gaming convention in UCC"
 # baseurl: "https://gregorioustechorious.github.io/warpcon.ie/"
 baseurl: "https://www.warpcon.ie"
 url: "https://www.warpcon.ie"
@@ -59,7 +59,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Warpcon 200"
-eventDate: "January 26th-28th, 2024"
+eventDate: "January 31st - February 2nd, 2025"
 typeoutTextValues: '"", "TTRPGs", "CCGs", "Wargames", "UCC", "Cork"'
 typeoutFallback: ""
 heroButtons:
@@ -105,9 +105,9 @@ eventAddressLocality: "Cork City"
 eventAddressLocalityRegion: "Cork"
 eventPostalCode: "79000"
 eventAddressCountry: "Ireland"
-eventStartTime: "2023-01-27T17:00"
+eventStartTime: "2025-01-31T17:00"
 eventDoorTime: "17:00"
-eventEndTime: "2023-01-29T23:00"
+eventEndTime: "2023-02-02T23:00"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -185,7 +185,7 @@ footerBlocks:
   links:
     - {link: "https://warpcon.eventbrite.ie",       text: "Eventbrite"}
     - {link: "https://www.facebook.com/WARPCON/",   text: "Facebook"}
-    - {link: "https://www.instagram.com/WARPCON/",  text: "Instagram"}
+    - {link: "https://www.instagram.com/warpconucc/",  text: "Instagram"}
 
  -
   title: "Contacts"
