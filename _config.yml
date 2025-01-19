@@ -45,7 +45,6 @@ navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/games/", text: "Games"}
   - {permalink: "/schedule", text: "Schedule"}
-  - {permalink: "http://warpcon35.conmaps.com/", text: "Map"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
