@@ -162,7 +162,7 @@ ticketsOffers:
   # disabled: true
  -
   name: "Day Pass"
-  price: "15"
+  price: "€15"
   # ribbon: "Ribbon Text"
   priceCurrency: "EUR"
   featured: true
