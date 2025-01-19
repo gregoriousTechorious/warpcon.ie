@@ -49,11 +49,16 @@ navigationLinks:
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSds7_XGjjyr1WuwuL3QSxhhg1R97B132o_IrN-EuleW2JrMsA/viewform?usp=sf_link", text: "Become a trader"}
+
+# bottomNavigationLinks:
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSds7_XGjjyr1WuwuL3QSxhhg1R97B132o_IrN-EuleW2JrMsA/viewform?usp=sf_link", text: "Become a trader"}
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
+# AS FAR AS I CAN TELL THESE ^ 2 LINES OF CODE ARE USELESS BUT IM NOT DELETING THEM JUST IN CASE
+
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSds7_XGjjyr1WuwuL3QSxhhg1R97B132o_IrN-EuleW2JrMsA/viewform?usp=sf_link", text: "Become a trader"}
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSds7_XGjjyr1WuwuL3QSxhhg1R97B132o_IrN-EuleW2JrMsA/viewform?usp=sf_link", text: "Become a trader"}
+# ONLY THIS LINE OF CODE SEEMS TO BE NEEDED FOR TRADER BUTTON/FORM BUT IM LEAVING THE ONE UNDER JUST IN CASE ^^^
+
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a vendor"}
 
 # Hero Block
@@ -69,6 +74,7 @@ heroButtons:
 #  - {link: "#", text: "Staff application", disabled: true}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdW3TUd-WJG05cU-E4ebJN2YebRrKga6oix7W74uRJx01YAXQ/viewform?usp=sf_link", text: "Trader application"}
 #  - {link: "#", text: "Vendor application", disabled: true}
+#THESE STAFF CODE ABOVE SEEM USELESS, SEE staff.html
 
 # About Block
 aboutTitle: "About Warpcon"
