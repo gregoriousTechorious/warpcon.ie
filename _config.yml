@@ -148,36 +148,27 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets can also be purchased at the reception desk on the day. For college society group bookings, please contact us at <a href='mailto:warpcondirector@gmail.com'>warpcondirector@gmail.com</a>."
 ticketsOffers:
  -
-  name: "CCGs Pass"
-  price: "€10"
-  ribbon: "Optional"
-  priceCurrency: "EUR"
-  ticketsNumber: ""
-  buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173651839"
-  buyButtonText: "Buy now!"
-  ticketContentList: ["Access to CCGs rooms and special events", "Access to Pokemon, Lorcana, Yu-Gi-Oh and MTG games"]
-  # validFrom: "2014-08-25T10:00"
-  # validThrough: "2014-09-30T23:59"
- -
-  name: "General Admission"
+  name: "Weekend Pass"
   price: "€25"
   priceCurrency: "EUR"
-  ticketsNumber: ""
+  # ticketsNumber: ""
   featured: true
-  buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173651839"
+  buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173660198"
   buyButtonText: "Buy now!"
+  additionalInfo: "Student Discount Available!"
   ticketContentList: ["Admission to Warpcon convention","Access to CCG Tournaments", "Access to all boardgames and TTRPGs"]
   # validFrom: "2014-10-01T00:00"
   # validThrough: "2014-10-23T23:59"
   # disabled: true
  -
-  name: "Wargames Pass"
-  price: "10"
-  ribbon: "Optional"
+  name: "Day Pass"
+  price: "15"
+  # ribbon: "Ribbon Text"
   priceCurrency: "EUR"
- # buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173651839"
+  featured: true
+  buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173660198"
   buyButtonText: "Buy now!"
-  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  additionalInfo: "Student Discount Available!"
   ticketContentList: ["Access to Wargames rooms", "Access to Warhammer. For Bloodbowl tickets please see rulepack above*"]
 
 # Footer
