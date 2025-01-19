@@ -169,7 +169,7 @@ ticketsOffers:
   buyButtonLink: "https://uccsocieties.ticketsolve.com/ticketbooth/shows/1173660198"
   buyButtonText: "Buy now!"
   additionalInfo: "Student Discount Available!"
-  ticketContentList: ["Access to Wargames rooms", "Access to Warhammer. For Bloodbowl tickets please see rulepack above*"]
+  ticketContentList: ["Admission to Warpcon convention","Access to CCG Tournaments", "Access to all boardgames and TTRPGs"]
 
 # Footer
 socialLinks:
