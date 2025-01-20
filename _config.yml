@@ -188,9 +188,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:warpcondirector@gmail.com",   text: "warpcondirector@gmail.com"}
-   - {link: "mailto:warpcontrader@gmail.com",     text: "warpcontrader@gmail.com"}
-   - {link: "mailto:warpconsecretary@gmail.com",  text: "warpconsecretary@gmail.com"}
-   - {link: "mailto:warpconstaff@gmail.com",      text: "warpconstaff@gmail.com"}
+   - {link: "mailto:warpconofficers@uccsocieties.ie",   text: "warpconofficers@uccsocieties.ie"}
+   # - {link: "mailto:warpcontrader@gmail.com",     text: "warpcontrader@gmail.com"}
+   # - {link: "mailto:warpconsecretary@gmail.com",  text: "warpconsecretary@gmail.com"}
+   # - {link: "mailto:warpconstaff@gmail.com",      text: "warpconstaff@gmail.com"}
  -
   title: "FAQ"
   links:
