@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "This Sick Island"
-author: Ray O’Mahony
+author: Pierce Woodall
 system: Heart the City Beneath 
 exp_level: Teens+
 image: hero.jpg
