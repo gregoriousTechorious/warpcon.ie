@@ -45,6 +45,7 @@ navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/games/", text: "Games"}
   - {permalink: "/schedule", text: "Schedule"}
+  - {permalink: "/booklet.pdf", text: "Booklet"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
