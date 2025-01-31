@@ -1,7 +1,7 @@
 ---
 layout: game
 title: "Come Away Oh Human Child"
-author: ___
+author: Bryan Caball
 system: "D&D 5e"
 exp_level: ___
 image: hero.jpg
